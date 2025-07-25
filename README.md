@@ -1,8 +1,8 @@
-# 📱 QR Code Generator 🚀
+## 📱 QR Code Generator 🚀
 
 A simple and easy-to-use QR Code Generator built with JavaScript and HTML.
 
-
+---
 
 ## 📝 Overview
 
