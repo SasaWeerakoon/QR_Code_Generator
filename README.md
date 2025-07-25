@@ -77,5 +77,3 @@ This project is open-source. Add your preferred license information here.
 🌍 Passionate web developer and creative technologist dedicated to building elegant, user-friendly solutions.  
 💡 Enthusiastic about open-source, innovation, and sharing knowledge.  
 📫 Connect with me on [SasaWeerakoon](https://github.com/SasaWeerakoon) for collaborations, feedback, or just to say hello!
-
----
