@@ -2,9 +2,13 @@
 
 A simple and easy-to-use QR Code Generator built with JavaScript and HTML.
 
+---
+
 ## 📝 Overview
 
 This project allows users to generate QR codes for any text or URL directly in their browser. It’s designed for quick use, requiring no installation or dependencies beyond a modern web browser.
+
+---
 
 ## ✨ Features
 
@@ -13,11 +17,17 @@ This project allows users to generate QR codes for any text or URL directly in t
 - 💾 Download or save generated QR codes as image files (if implemented)
 - 🧑‍💻 Clean and user-friendly interface
 
+---
+
 ## 🚀 Getting Started
+
+---
 
 ### 🔧 Prerequisites
 
 - A modern web browser (Chrome, Firefox, Edge, Safari, etc.)
+
+---
 
 ### 🛠️ Usage
 
@@ -38,19 +48,27 @@ This project allows users to generate QR codes for any text or URL directly in t
 4. **(Optional) Download the QR Code**
    - 📥 If there is a download button, click it to save the QR code as an image.
 
+---
+
 ## 📁 Project Structure
 
 - `index.html` – Main HTML file for the UI
 - `main.js` or similar – JavaScript logic for generating QR codes
 - `styles.css` (if present) – Optional styling
 
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues or submit pull requests if you have suggestions or improvements.
 
+---
+
 ## 📝 License
 
 This project is open-source. Add your preferred license information here.
+
+---
 
 ## 👤 Author
 
