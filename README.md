@@ -1,67 +1,62 @@
-# 📱 QR Code Generator
+# 📱 QR Code Generator 🚀
 
-A simple and elegant **QR Code Generator** built using **HTML**, **JavaScript**, and the [QRCode API](https://api.qrserver.com/).  
-This tool allows users to easily generate QR codes by entering any text or URL.
+A simple and easy-to-use QR Code Generator built with JavaScript and HTML.
 
----
+## 📝 Overview
+
+This project allows users to generate QR codes for any text or URL directly in their browser. It’s designed for quick use, requiring no installation or dependencies beyond a modern web browser.
 
 ## ✨ Features
 
-- 🖊 **User Input** – Enter any text, link, or data.
-- ⚡ **Instant QR Code** – Generate QR codes in real-time.
-- 🌐 **API Integration** – Uses [QRServer API](https://api.qrserver.com/) for QR code generation.
-- 📱 **Responsive Design** – Works on desktop and mobile screens.
-- 🛠 **Lightweight** – No backend required.
+- ⚡ Generate QR codes for any input text or URL
+- 👀 Instant preview of generated QR code
+- 💾 Download or save generated QR codes as image files (if implemented)
+- 🧑‍💻 Clean and user-friendly interface
 
----
+## 🚀 Getting Started
 
-## 🚀 Demo
+### 🔧 Prerequisites
 
-You can try this project locally by cloning it to your system.
+- A modern web browser (Chrome, Firefox, Edge, Safari, etc.)
 
----
+### 🛠️ Usage
 
-## 🛠 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+1. **Clone or Download this Repository**
+   ```sh
+   git clone https://github.com/SasaWeerakoon/QR_Code_Generator.git
    ```
-   
-2. **Navigate to the project folder:**
-   ```bash
-   cd qr-code-generator
-   ```
-   
-3. **Open index.html in your browser – No extra setup is required.**
+   Or download the ZIP and extract it.
 
----
+2. **Open the Application**
+   - Open the `index.html` file in your preferred web browser.
 
-## 📂 Project Structure
+3. **Generate a QR Code**
+   - ✏️ Enter the desired text or URL into the input field.
+   - 🟢 Click the "Generate" button.
+   - 📲 The QR code will appear on the page.
 
-```bash
-qr-code-generator/
-│
-├── index.html   # Main HTML file
-├── index.js     # JavaScript logic for QR code generation
-└── README.md    # Project documentation
-```
+4. **(Optional) Download the QR Code**
+   - 📥 If there is a download button, click it to save the QR code as an image.
 
----
+## 📁 Project Structure
 
-## 🎯 How to Use
+- `index.html` – Main HTML file for the UI
+- `main.js` or similar – JavaScript logic for generating QR codes
+- `styles.css` (if present) – Optional styling
 
-1.  Open the project in your browser.
-2.  Enter any text or link into the input field.
-3.  Click the Generate button.
-4.  A QR code will appear instantly!
+## 🤝 Contributing
 
----
+Contributions are welcome! Please open issues or submit pull requests if you have suggestions or improvements.
 
-## 🔧 Technologies Used
+## 📝 License
 
-- HTML5
-- JavaScript (Vanilla JS)
-- QRCode API
+This project is open-source. Add your preferred license information here.
+
+## 👤 Author
+
+**Sasa Weerakoon**  
+🌍 Passionate web developer and creative technologist dedicated to building elegant, user-friendly solutions.  
+💡 Enthusiastic about open-source, innovation, and sharing knowledge.  
+📫 Connect with me on [SasaWeerakoon](https://github.com/SasaWeerakoon) for collaborations, feedback, or just to say hello!
 
 ---
